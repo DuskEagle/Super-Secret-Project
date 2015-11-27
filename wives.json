@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "label": "A",
+      "x": 0,
+      "y": 0,
+      "size": 10
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "x": 1,
+      "y": 0,
+      "size": 10
+    },
+    {
+      "id": "C",
+      "label": "C",
+      "x": 0,
+      "y": 1,
+      "size": 10
+    },
+    {
+      "id": "D",
+      "label": "D",
+      "x": 1,
+      "y": 1,
+      "size": 10
+    },
+    {
+      "id": "E",
+      "label": "E",
+      "x": 2,
+      "y": 0,
+      "size": 10
+    },
+    {
+      "id": "Dummy",
+      "label": "",
+      "x": 5,
+      "y": 5,
+      "size": 10,
+      "color": "#ffffff"
+    }
+  ],
+  "edges": [
+    {
+      "id": "AB",
+      "source": "A",
+      "target": "B",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "CB",
+      "source": "C",
+      "target": "B",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "CA",
+      "source": "C",
+      "target": "A",
+      "label": "Concubros",
+      "color": "#660066"
+    },
+    {
+      "id": "DA",
+      "source": "D",
+      "target": "A",
+      "label": "Transcendent Love Beings",
+      "color": "#ff00ff"
+    },
+    {
+      "id": "DB",
+      "source": "D",
+      "target": "B",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AE",
+      "source": "A",
+      "target": "E",
+      "label": "Non-Binary Domestic Partnership",
+      "color": "#eeee11"
+    },
+    {
+      "id": "DE",
+      "source": "D",
+      "target": "E",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "CE",
+      "source": "C",
+      "target": "E",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "EB",
+      "source": "B",
+      "target": "E",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "DC",
+      "source": "D",
+      "target": "C",
+      "label": "Wives",
+      "color": "#0022ff"
+    }
+  ]
+}
