@@ -1,16 +1,20 @@
 <html>
 <head>
+<title>The Wife Graph - Nadiejda.com</title>
 <style type="text/css">
   #container {
-    
+    background-color: white;
     height: 80%;
     margin: auto;
     border-style: solid;
+    position: relative;
+  }
+  body {
+    background-color: lightgray;
   }
 </style>
 </head>
 <body>
-<div id="container"></div>
 <script src="sigma.min.js"></script>
 <script src="sigma/plugins/sigma.parsers.json/sigma.parsers.json.js"></script>
 <script src="sigma/plugins/sigma.parsers.json/sigma.parsers.json.js"></script>
@@ -36,8 +40,10 @@
 <script src="../src/renderers/canvas/sigma.canvas.edgehovers.arrow.js"></script>
 <script src="../src/renderers/canvas/sigma.canvas.edgehovers.curvedArrow.js"></script>
 
+<div id="container"></div>
 <input id="label-checkbox" type="checkbox" onclick="toggleLabels()">
-<label for="label-checkbox">Show labels</label>
+<label id="label-checkbox-text" for="label-checkbox">Show labels</label>
+
 <script>
     
     var show_labels = true;
@@ -87,10 +93,6 @@
         
         toggleLabels();
     });
-    
-    
-    
-    
 
 </script>
 </body>
