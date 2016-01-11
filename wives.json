@@ -1,306 +1,312 @@
 {
   "nodes": [
     {
-      "id": "Joel",
-      "label": "Joel",
-      "x": 1,
+      "id": "AHFister",
+      "label": "AHFister",
+      "x": 0,
       "y": 1,
-      "size": 10
-    },
-    {
-      "id": "Shannon",
-      "label": "Shannon",
-      "x": 2,
-      "y": 1,
-      "size": 10
-    },
-    {
-      "id": "Heather",
-      "label": "Heather",
-      "x": 1,
-      "y": 2,
       "size": 10
     },
     {
       "id": "Alex",
       "label": "Alex",
-      "x": 0,
-      "y": 0,
-      "size": 10
-    },
-    {
-      "id": "Nadiejda",
-      "label": "Nadiejda",
-      "x": 3,
+      "x": 1,
       "y": 1,
-      "size": 10
-    },
-    {
-      "id": "MaryKate",
-      "label": "Mary Kate",
-      "x": 3,
-      "y": 2,
       "size": 10
     },
     {
       "id": "Amanda",
       "label": "Amanda",
-      "x": 3,
+      "x": 2,
       "y": 3,
-      "size": 10
-    },
-    {
-      "id": "Eric",
-      "label": "Eric",
-      "x": 4,
-      "y": 3,
-      "size": 10
-    },
-    {
-      "id": "Dale",
-      "label": "Dale",
-      "x": 4,
-      "y": 4,
-      "size": 10
-    },
-    {
-      "id": "Keri",
-      "label": "Keri",
-      "x": 5,
-      "y": 4,
-      "size": 10
-    },
-    {
-      "id": "Devin",
-      "label": "Devin",
-      "x": 5,
-      "y": 5,
-      "size": 10
-    },
-    {
-      "id": "Destinee",
-      "label": "Destinee",
-      "x": 6,
-      "y": 5,
-      "size": 10
-    },
-    {
-      "id": "Were",
-      "label": "Were",
-      "x": 6,
-      "y": 6,
-      "size": 10
-    },
-    {
-      "id": "Rachel",
-      "label": "Rachel",
-      "x": 7,
-      "y": 6,
-      "size": 10
-    },
-    {
-      "id": "Christina",
-      "label": "Christina",
-      "x": 7,
-      "y": 7,
-      "size": 10
-    },
-    {
-      "id": "Sahaana",
-      "label": "Sahaana",
-      "x": 8,
-      "y": 7,
-      "size": 10
-    },
-    {
-      "id": "FASSGirl",
-      "label": "FASSGirl",
-      "x": 8,
-      "y": 8,
-      "size": 10
-    },
-    {
-      "id": "Nicole",
-      "label": "Nicole",
-      "x": 9,
-      "y": 8,
-      "size": 10
-    },
-    {
-      "id": "Komal",
-      "label": "Komal",
-      "x": 9,
-      "y": 9,
-      "size": 10
-    },
-    {
-      "id": "Reid",
-      "label": "Reid",
-      "x": 10,
-      "y": 10,
-      "size": 10
-    },
-    {
-      "id": "Gabi",
-      "label": "Gabi",
-      "x": 11,
-      "y": 10,
-      "size": 10
-    },
-    {
-      "id": "Kerrin",
-      "label": "Kerrin",
-      "x": 11,
-      "y": 11,
-      "size": 10
-    },
-    {
-      "id": "Jen",
-      "label": "Jen",
-      "x": 12,
-      "y": 11,
-      "size": 10
-    },
-    {
-      "id": "Julia",
-      "label": "Julia",
-      "x": 12,
-      "y": 12,
-      "size": 10
-    },
-    {
-      "id": "Daniel",
-      "label": "Daniel",
-      "x": 13,
-      "y": 12,
-      "size": 10
-    },
-    {
-      "id": "Sophie",
-      "label": "Sophie",
-      "x": 13,
-      "y": 13,
-      "size": 10
-    },
-    {
-      "id": "Keana",
-      "label": "Keana",
-      "x": 14,
-      "y": 13,
-      "size": 10
-    },
-    {
-      "id": "Laura",
-      "label": "Laura",
-      "x": 14,
-      "y": 14,
-      "size": 10
-    },
-    {
-      "id": "Dale",
-      "label": "Dale",
-      "x": 15,
-      "y": 14,
-      "size": 10
-    },
-    {
-      "id": "Quinton",
-      "label": "Quinton",
-      "x": 15,
-      "y": 15,
       "size": 10
     },
     {
       "id": "Aparna",
       "label": "Aparna",
-      "x": 16,
-      "y": 15,
+      "x": 3,
+      "y": 3,
       "size": 10
     },
     {
       "id": "Brendan",
       "label": "Brendan",
-      "x": 16,
-      "y": 16,
+      "x": 4,
+      "y": 5,
       "size": 10
     },
     {
-      "id": "Yoshi",
-      "label": "Yoshi",
-      "x": 17,
-      "y": 16,
-      "size": 10
-    },
-    {
-      "id": "Steph",
-      "label": "Steph",
-      "x": 17,
-      "y": 17,
+      "id": "Bronwen",
+      "label": "Bronwen",
+      "x": 5,
+      "y": 5,
       "size": 10
     },
     {
       "id": "Brook",
       "label": "Brook",
-      "x": 18,
-      "y": 17,
+      "x": 6,
+      "y": 7,
       "size": 10
     },
     {
       "id": "Cam",
       "label": "Cam",
-      "x": 18,
-      "y": 18,
+      "x": 7,
+      "y": 7,
       "size": 10
     },
     {
-      "id": "Lumi",
-      "label": "Lumi",
-      "x": 19,
-      "y": 18,
+      "id": "Christina",
+      "label": "Christina",
+      "x": 8,
+      "y": 9,
       "size": 10
     },
     {
-      "id": "Ahfister",
-      "label": "Ahfister",
-      "x": 19,
-      "y": 19,
+      "id": "Cristian",
+      "label": "Cristian",
+      "x": 9,
+      "y": 9,
+      "size": 10
+    },
+    {
+      "id": "Dale",
+      "label": "Dale",
+      "x": 10,
+      "y": 11,
+      "size": 10
+    },
+    {
+      "id": "Daniel",
+      "label": "Daniel",
+      "x": 11,
+      "y": 11,
+      "size": 10
+    },
+    {
+      "id": "Destinee",
+      "label": "Destinee",
+      "x": 12,
+      "y": 13,
+      "size": 10
+    },
+    {
+      "id": "Devin",
+      "label": "Devin",
+      "x": 13,
+      "y": 13,
+      "size": 10
+    },
+    {
+      "id": "Eric",
+      "label": "Eric",
+      "x": 14,
+      "y": 15,
       "size": 10
     },
     {
       "id": "Ezra",
       "label": "Ezra",
-      "x": 20,
+      "x": 15,
+      "y": 15,
+      "size": 10
+    },
+    {
+      "id": "FASSGirl",
+      "label": "FASSGirl",
+      "x": 16,
+      "y": 17,
+      "size": 10
+    },
+    {
+      "id": "Fiancée",
+      "label": "Fiancée",
+      "x": 17,
+      "y": 17,
+      "size": 10
+    },
+    {
+      "id": "Gabi",
+      "label": "Gabi",
+      "x": 18,
       "y": 19,
       "size": 10
     },
     {
-      "id": "Scott",
-      "label": "Scott",
-      "x": 20,
+      "id": "Heather",
+      "label": "Heather",
+      "x": 19,
       "y": 19,
+      "size": 10
+    },
+    {
+      "id": "Jen",
+      "label": "Jen",
+      "x": 20,
+      "y": 21,
+      "size": 10
+    },
+    {
+      "id": "Joel",
+      "label": "Joel",
+      "x": 21,
+      "y": 21,
       "size": 10
     },
     {
       "id": "Jordan",
       "label": "Jordan",
-      "x": 20,
-      "y": 19,
+      "x": 22,
+      "y": 23,
       "size": 10
     },
     {
-      "id": "Fiancee",
-      "label": "Fiancee",
-      "x": 20,
-      "y": 19,
+      "id": "Julia",
+      "label": "Julia",
+      "x": 23,
+      "y": 23,
       "size": 10
     },
     {
-      "id": "Dummy",
-      "label": "",
-      "x": 50,
-      "y": 50,
-      "size": 10,
-      "color": "#ffffff"
+      "id": "Keana",
+      "label": "Keana",
+      "x": 24,
+      "y": 25,
+      "size": 10
+    },
+    {
+      "id": "Keri",
+      "label": "Keri",
+      "x": 25,
+      "y": 25,
+      "size": 10
+    },
+    {
+      "id": "Kerrin",
+      "label": "Kerrin",
+      "x": 26,
+      "y": 27,
+      "size": 10
+    },
+    {
+      "id": "Komal",
+      "label": "Komal",
+      "x": 27,
+      "y": 27,
+      "size": 10
+    },
+    {
+      "id": "Laura",
+      "label": "Laura",
+      "x": 28,
+      "y": 29,
+      "size": 10
+    },
+    {
+      "id": "Lumi",
+      "label": "Lumi",
+      "x": 29,
+      "y": 29,
+      "size": 10
+    },
+    {
+      "id": "MaryKate",
+      "label": "MaryKate",
+      "x": 30,
+      "y": 31,
+      "size": 10
+    },
+    {
+      "id": "Nadiejda",
+      "label": "Nadiejda",
+      "x": 31,
+      "y": 31,
+      "size": 10
+    },
+    {
+      "id": "Nat",
+      "label": "Nat",
+      "x": 32,
+      "y": 33,
+      "size": 10
+    },
+    {
+      "id": "Nicole",
+      "label": "Nicole",
+      "x": 33,
+      "y": 33,
+      "size": 10
+    },
+    {
+      "id": "Quinton",
+      "label": "Quinton",
+      "x": 34,
+      "y": 35,
+      "size": 10
+    },
+    {
+      "id": "Rachel",
+      "label": "Rachel",
+      "x": 35,
+      "y": 35,
+      "size": 10
+    },
+    {
+      "id": "Reid",
+      "label": "Reid",
+      "x": 36,
+      "y": 37,
+      "size": 10
+    },
+    {
+      "id": "Sahaana",
+      "label": "Sahaana",
+      "x": 37,
+      "y": 37,
+      "size": 10
+    },
+    {
+      "id": "Scott",
+      "label": "Scott",
+      "x": 38,
+      "y": 39,
+      "size": 10
+    },
+    {
+      "id": "Shannon",
+      "label": "Shannon",
+      "x": 39,
+      "y": 39,
+      "size": 10
+    },
+    {
+      "id": "Sophie",
+      "label": "Sophie",
+      "x": 40,
+      "y": 41,
+      "size": 10
+    },
+    {
+      "id": "Steph",
+      "label": "Steph",
+      "x": 41,
+      "y": 41,
+      "size": 10
+    },
+    {
+      "id": "Were",
+      "label": "Were",
+      "x": 42,
+      "y": 43,
+      "size": 10
+    },
+    {
+      "id": "Yoshi",
+      "label": "Yoshi",
+      "x": 43,
+      "y": 43,
+      "size": 10
     }
   ],
   "edges": [
@@ -358,7 +364,7 @@
       "source": "Joel",
       "target": "Nadiejda",
       "label": "Non-Binary Domestic Partnership",
-      "color": "#eeee11"
+      "color": "orangered"
     },
     {
       "id": "AlexNadiejda",
@@ -368,7 +374,7 @@
       "color": "#0022ff"
     },
     {
-      "id": "HeatherNadiejda",
+      "id": "HeatherNadiejdaWives",
       "source": "Heather",
       "target": "Nadiejda",
       "label": "Wives",
@@ -401,41 +407,6 @@
       "target": "Heather",
       "label": "Fiancées",
       "color": "#00ccff"
-    },
-    {
-      "id": "AmandaAlex",
-      "source": "Amanda",
-      "target": "Alex",
-      "label": "Wives",
-      "color": "#0022ff"
-    },
-    {
-      "id": "AmandaHeather",
-      "source": "Amanda",
-      "target": "Heather",
-      "label": "Wives",
-      "color": "#0022ff"
-    },
-    {
-      "id": "AmandaJoel",
-      "source": "Amanda",
-      "target": "Joel",
-      "label": "Wives",
-      "color": "#0022ff"
-    },
-    {
-      "id": "AmandaNadiejda",
-      "source": "Amanda",
-      "target": "Nadiejda",
-      "label": "Wives",
-      "color": "#0022ff"
-    },
-    {
-      "id": "AmandaShannon",
-      "source": "Amanda",
-      "target": "Shannon",
-      "label": "Wives",
-      "color": "#0022ff"
     },
     {
       "id": "DestineeJoel",
@@ -634,9 +605,9 @@
       "color": "#0022ff"
     },
     {
-      "id": "LumiAhfister",
+      "id": "LumiAHFister",
       "source": "Lumi",
-      "target": "Ahfister",
+      "target": "AHFister",
       "label": "Wives",
       "color": "#0022ff"
     },
@@ -760,9 +731,9 @@
       "color": "#00ccff"
     },
     {
-      "id": "SophieFiancee",
+      "id": "SophieFiancée",
       "source": "Sophie",
-      "target": "Fiancee",
+      "target": "Fiancée",
       "label": "Fiancées",
       "color": "#00ccff"
     },
@@ -834,28 +805,28 @@
       "source": "Sophie",
       "target": "Keri",
       "label": "Fling",
-      "color": "yellow"
+      "color": "gold"
     },
     {
-      "id": "NadiejdaEric",
+      "id": "NadiejdaEricHusbands",
       "source": "Nadiejda",
       "target": "Eric",
       "label": "Husbands",
-      "color": "cyan"
+      "color": "darkcyan"
     },
     {
       "id": "HeatherDestinee",
       "source": "Heather",
       "target": "Destinee",
       "label": "Husbands",
-      "color": "cyan"
+      "color": "darkcyan"
     },
     {
       "id": "AmandaHeather",
       "source": "Amanda",
       "target": "Heather",
       "label": "Husbands",
-      "color": "cyan"
+      "color": "darkcyan"
     },
     {
       "id": "DestineeDevin",
@@ -886,6 +857,13 @@
       "color": "aquamarine"
     },
     {
+      "id": "JoelYoshi",
+      "source": "Joel",
+      "target": "Yoshi",
+      "label": "Exes",
+      "color": "dimgrey"
+    },
+    {
       "id": "HeatherKeri",
       "source": "Heather",
       "target": "Keri",
@@ -914,6 +892,14 @@
       "color": "darkseagreen"
     },
     {
+      "id": "BrookNadiejda",
+      "source": "Nadiejda",
+      "target": "Brook",
+      "label": "Brookachu",
+      "color": "#fad61f",
+      "type": "arrow"
+    },
+    {
       "id": "WereDale",
       "source": "Were",
       "target": "Dale",
@@ -935,7 +921,7 @@
       "color": "pink"
     },
     {
-      "id": "HeatherDaniel",
+      "id": "HeatherDanielCL",
       "source": "Heather",
       "target": "Daniel",
       "label": "Common law",
@@ -949,11 +935,12 @@
       "color": "pink"
     },
     {
-      "id": "HeatherDaniel",
+      "id": "HeatherDanielFWB",
       "source": "Heather",
       "target": "Daniel",
       "label": "Friends with benefits",
-      "color": "yellow"
+      "color": "orange",
+      "type": "curve"
     },
     {
       "id": "EricHeather",
@@ -984,25 +971,36 @@
       "color": "deeppink"
     },
     {
-      "id": "HeatherNadiejda",
+      "id": "HeatherNadiejdaBF",
       "source": "Heather",
       "target": "Nadiejda",
       "label": "Boyfriends",
-      "color": "purple"
+      "color": "purple",
+      "type": "curve"
     },
     {
-      "id": "JoelSophie",
+      "id": "JoelSophieHusband",
+      "source": "Sophie",
+      "target": "Joel",
+      "label": "Husband",
+      "color": "darkcyan",
+      "type": "arrow"
+    },
+    {
+      "id": "JoelSophieWife",
       "source": "Joel",
       "target": "Sophie",
-      "label": "JoelHusband SophieWife",
-      "color": "gold"
+      "label": "Wife",
+      "color": "#0022ff",
+      "type": "curvedArrow"
     },
     {
-      "id": "NadiejdaEric",
+      "id": "NadiejdaEricPopStars",
       "source": "Nadiejda",
       "target": "Eric",
-      "label": "NadiejdaBae-Z EricHusbeyonce",
-      "color": "antiquewhite"
+      "label": "HusBeyoncé and Bae-Z",
+      "color": "burlywood",
+      "type": "curve"
     },
     {
       "id": "AmandaNadiejda",
@@ -1016,14 +1014,30 @@
       "source": "Jordan",
       "target": "Heather",
       "label": "HeatherQueen JordanPrinceConsort",
-      "color": "aquamarine"
+      "color": "violet"
     },
     {
-      "id": "JoelChristian",
+      "id": "JoelCristian",
       "source": "Joel",
-      "target": "Christian",
+      "target": "Cristian",
       "label": "Super Fucks",
-      "color": "aquamarine"
+      "color": "darkred"
+    },
+    {
+      "id": "LumiMaryKate",
+      "source": "Lumi",
+      "target": "MaryKate",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "LumiNadiejda",
+      "source": "Lumi",
+      "target": "Nadiejda",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
+
+
