@@ -857,6 +857,13 @@
       "color": "aquamarine"
     },
     {
+      "id": "JoelYoshi",
+      "source": "Joel",
+      "target": "Yoshi",
+      "label": "Exes",
+      "color": "dimgrey"
+    },
+    {
       "id": "HeatherKeri",
       "source": "Heather",
       "target": "Keri",
@@ -883,6 +890,14 @@
       "target": "Brook",
       "label": "Civil union",
       "color": "darkseagreen"
+    },
+    {
+      "id": "BrookNadiejda",
+      "source": "Nadiejda",
+      "target": "Brook",
+      "label": "Brookachu",
+      "color": "#fad61f",
+      "type": "arrow"
     },
     {
       "id": "WereDale",
@@ -953,8 +968,7 @@
       "source": "Heather",
       "target": "Dale",
       "label": "Bae-Y",
-      "color": "deeppink",
-      "type": "arrow"
+      "color": "deeppink"
     },
     {
       "id": "HeatherNadiejdaBF",
@@ -1025,3 +1039,4 @@
     }
   ]
 }
+
