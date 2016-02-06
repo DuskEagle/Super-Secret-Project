@@ -212,7 +212,7 @@
     },
     {
       "id": "MaryKate",
-      "label": "MaryKate",
+      "label": "Mary Kate",
       "x": 30,
       "y": 31,
       "size": 10
@@ -305,7 +305,28 @@
       "id": "Yoshi",
       "label": "Yoshi",
       "x": 43,
-      "y": 43,
+      "y": 45,
+      "size": 10
+    },
+    {
+      "id": "Joseph",
+      "label": "Joseph",
+      "x": 42,
+      "y": 44,
+      "size": 10
+    },
+    {
+      "id": "Andrew",
+      "label": "Andrew",
+      "x": 43,
+      "y": 44,
+      "size": 10
+    },
+    {
+      "id": "Andy",
+      "label": "Andy",
+      "x": 44,
+      "y": 44,
       "size": 10
     }
   ],
@@ -465,11 +486,19 @@
       "color": "#0022ff"
     },
     {
-      "id": "ShannonSophie",
+      "id": "ShannonSophie1",
       "source": "Shannon",
       "target": "Sophie",
-      "label": "Wives",
+      "label": "Wife",
       "color": "#0022ff"
+    },
+    {
+      "id": "SophieShannon2",
+      "source": "Sophie",
+      "target": "Shannon",
+      "label": "Non-Binary Spouse",
+      "color": "darkorange",
+      "type": "curvedArrow"
     },
     {
       "id": "ShannonDestinee",
@@ -1013,7 +1042,7 @@
       "id": "JordanHeather",
       "source": "Jordan",
       "target": "Heather",
-      "label": "HeatherQueen JordanPrinceConsort",
+      "label": "Heather: Queen, Jordan: PrinceConsort",
       "color": "violet"
     },
     {
@@ -1036,8 +1065,107 @@
       "target": "Nadiejda",
       "label": "Wives",
       "color": "#0022ff"
+    },
+    {
+      "id": "EricJordan",
+      "source": "Eric",
+      "target": "Jordan",
+      "label": "In Eric's Pocket",
+      "color": "chocolate",
+      "type": "arrow"
+    },
+    {
+      "id": "YoshiJordan",
+      "source": "Yoshi",
+      "target": "Jordan",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "HeatherYoshi",
+      "source": "Heather",
+      "target": "Yoshi",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "JosephYoshi",
+      "source": "Joseph",
+      "target": "Yoshi",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "EricJoseph",
+      "source": "Eric",
+      "target": "Joseph",
+      "label": "Son",
+      "color": "fuchsia",
+      "type": "arrow"
+    },
+    {
+      "id": "HeatherJoseph",
+      "source": "Heather",
+      "target": "Joseph",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AmandaScott",
+      "source": "Amanda",
+      "target": "Scott",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "ScottNadiejda",
+      "source": "Scott",
+      "target": "Nadiejda",
+      "label": "Collaborators",
+      "color": "indigo"
+    },
+    {
+      "id": "AndrewNadiejda",
+      "source": "Nadiejda",
+      "target": "Andrew",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AndrewShannon",
+      "source": "Shannon",
+      "target": "Andrew",
+      "label": "Life Partners",
+      "color": "dodgerblue"
+    },
+    {
+      "id": "AndyNadiejdaAndyIsNajsScarfBearer",
+      "source": "Nadiejda",
+      "target": "Andy",
+      "label": "Scarf Bearer",
+      "color": "darkslategray"
+    },
+    {
+      "id": "AndrewHeather",
+      "source": "Andrew",
+      "target": "Heather",
+      "label": "International Partnership",
+      "color": "forestgreen"
+    },
+    {
+      "id": "AndyShannon",
+      "source": "Andy",
+      "target": "Shannon",
+      "label": "It's Complicated",
+      "color": "blue"
+    },
+    {
+      "id": "MaryKateYoshi",
+      "source": "MaryKate",
+      "target": "Yoshi",
+      "label": "Affair",
+      "color": "#cc0000"
     }
   ]
 }
-
 
