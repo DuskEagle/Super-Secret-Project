@@ -1165,6 +1165,20 @@
       "target": "Yoshi",
       "label": "Affair",
       "color": "#cc0000"
+    },
+    {
+      "id": "AlexKeri",
+      "source": "Alex",
+      "target": "Keri",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AmandaYoshiWives",
+      "source": "Amanda",
+      "target": "Yoshi",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
