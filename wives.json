@@ -1053,13 +1053,6 @@
       "color": "darkred"
     },
     {
-      "id": "LumiMaryKate",
-      "source": "Lumi",
-      "target": "MaryKate",
-      "label": "Wives",
-      "color": "#0022ff"
-    },
-    {
       "id": "LumiNadiejda",
       "source": "Lumi",
       "target": "Nadiejda",
