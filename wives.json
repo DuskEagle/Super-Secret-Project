@@ -328,6 +328,13 @@
       "x": 44,
       "y": 44,
       "size": 10
+    },
+    {
+      "id": "Peter",
+      "label": "Peter",
+      "x": 19,
+      "y": 20,
+      "size": 10
     }
   ],
   "edges": [
@@ -1170,6 +1177,13 @@
       "id": "AmandaYoshiWives",
       "source": "Amanda",
       "target": "Yoshi",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "ShannonPeter",
+      "source": "Shannon",
+      "target": "Peter",
       "label": "Wives",
       "color": "#0022ff"
     }
