@@ -335,6 +335,41 @@
       "x": 19,
       "y": 20,
       "size": 10
+    },
+    {
+      "id": "May",
+      "label": "May",
+      "x": 40,
+      "y": 45,
+      "size": 10
+    },
+    {
+      "id": "Nahleen",
+      "label": "Nahleen",
+      "x": 41,
+      "y": 45,
+      "size": 10
+    },
+    {
+      "id": "Joey",
+      "label": "Joey",
+      "x": 42,
+      "y": 45,
+      "size": 10
+    },
+    {
+      "id": "Will",
+      "label": "Will",
+      "x": 20,
+      "y": 20,
+      "size": 10
+    },
+    {
+      "id": "Jodi",
+      "label": "Jodi",
+      "x": 20,
+      "y": 20,
+      "size": 10
     }
   ],
   "edges": [
@@ -1184,6 +1219,76 @@
       "id": "ShannonPeter",
       "source": "Shannon",
       "target": "Peter",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AlexMay",
+      "source": "Alex",
+      "target": "May",
+      "label": "Fiancées",
+      "color": "#00ccff"
+    },
+    {
+      "id": "AmandaMay",
+      "source": "Amanda",
+      "target": "May",
+      "label": "Husbands",
+      "color": "darkcyan"
+    },
+    {
+      "id": "MayWill",
+      "source": "May",
+      "target": "Will",
+      "label": "Estranged Wives",
+      "color": "#007ab6"
+    },
+    {
+      "id": "JoelMay",
+      "source": "Joel",
+      "target": "May",
+      "label": "Together for the zombie kids",
+      "color": "#91a283"
+    },
+    {
+      "id": "AlexJoey",
+      "source": "Alex",
+      "target": "Joey",
+      "label": "Bromancing",
+      "color": "#666666"
+    },
+    {
+      "id": "AlexNahleen",
+      "source": "Alex",
+      "target": "Nahleen",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "MayShannon",
+      "source": "May",
+      "target": "Shannon",
+      "label": "Side girls",
+      "color": "#d7a988"
+    },
+    {
+      "id": "ShannonNahleen",
+      "source": "Shannon",
+      "target": "Nahleen",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "AmandaNahleen",
+      "source": "Amanda",
+      "target": "Nahleen",
+      "label": "Common Law",
+      "color": "pink"
+    },
+    {
+      "id": "JodiShannon",
+      "source": "Jodi",
+      "target": "Shannon",
       "label": "Wives",
       "color": "#0022ff"
     }
