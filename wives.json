@@ -1291,6 +1291,13 @@
       "target": "Shannon",
       "label": "Wives",
       "color": "#0022ff"
+    },
+    {
+      "id": "AmandaKeri",
+      "source": "Amanda",
+      "target": "Keri",
+      "label": "Neutron-star crossed lovers",
+      "color": "#00e084"
     }
   ]
 }
