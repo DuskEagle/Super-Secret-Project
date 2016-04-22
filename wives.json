@@ -93,7 +93,7 @@
     },
     {
       "id": "Devin",
-      "label": "Devin",
+      "label": "Devin Gloyn",
       "x": 13,
       "y": 13,
       "size": 10
@@ -367,6 +367,27 @@
     {
       "id": "Jodi",
       "label": "Jodi",
+      "x": 20,
+      "y": 20,
+      "size": 10
+    },
+    {
+      "id": "Tiffany",
+      "label": "Tiffany",
+      "x": 20,
+      "y": 20,
+      "size": 10
+    },
+    {
+      "id": "DevinOwens",
+      "label": "Devin Owens",
+      "x": 20,
+      "y": 20,
+      "size": 10
+    },
+    {
+      "id": "MikeReitmeier",
+      "label": "Mike",
       "x": 20,
       "y": 20,
       "size": 10
@@ -1223,13 +1244,6 @@
       "color": "#0022ff"
     },
     {
-      "id": "AlexMay",
-      "source": "Alex",
-      "target": "May",
-      "label": "Fiancées",
-      "color": "#00ccff"
-    },
-    {
       "id": "AmandaMay",
       "source": "Amanda",
       "target": "May",
@@ -1298,6 +1312,69 @@
       "target": "Keri",
       "label": "Neutron-star crossed lovers",
       "color": "#00e084"
+    },
+    {
+      "id": "MayTiffany",
+      "source": "May",
+      "target": "Tiffany",
+      "label": "Partners in Crime",
+      "color": "#727272"
+    },
+    {
+      "id": "ShannonTiffany",
+      "source": "Shannon",
+      "target": "Tiffany",
+      "label": "Life Partners (No Homo)",
+      "color": "#11cccc"
+    },
+    {
+      "id": "DevinOwensJoel",
+      "source": "DevinOwens",
+      "target": "Joel",
+      "label": "Wives",
+      "color": "#00e084"
+    },
+    {
+      "id": "DevinOwensShannon",
+      "source": "DevinOwens",
+      "target": "Shannon",
+      "label": "Wives",
+      "color": "#00e084"
+    },
+    {
+      "id": "DevinOwensMay",
+      "source": "DevinOwens",
+      "target": "May",
+      "label": "Twins",
+      "color": "#932d5a"
+    },
+    {
+      "id": "DevinOwensTiffany",
+      "source": "DevinOwens",
+      "target": "Tiffany",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+    {
+      "id": "MayMikeReitmeier",
+      "source": "May",
+      "target": "MikeReitmeier",
+      "label": "Drinking Buddies",
+      "color": "#ffd00d"
+    },
+    {
+      "id": "MaySophie",
+      "source": "May",
+      "target": "Sophie",
+      "label": "Zucchini",
+      "color": "#54732d"
+    },
+    {
+      "id": "AlexMay",
+      "source": "Alex",
+      "target": "May",
+      "label": "Married Fiancées",
+      "color": "#0055ff"
     }
   ]
 }
