@@ -388,8 +388,8 @@
     {
       "id": "MikeReitmeier",
       "label": "Mike",
-      "x": 20,
-      "y": 20,
+      "x": 10,
+      "y": 10,
       "size": 10
     }
   ],
@@ -1360,7 +1360,7 @@
       "source": "May",
       "target": "MikeReitmeier",
       "label": "Drinking Buddies",
-      "color": "#ffd00d"
+      "color": "#d0d00d"
     },
     {
       "id": "MaySophie",
