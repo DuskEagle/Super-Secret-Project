@@ -1375,6 +1375,13 @@
       "target": "May",
       "label": "Married Fiancées",
       "color": "#0055ff"
+    },
+    {
+      "id": "BrendanHeather",
+      "source": "Brendan",
+      "target": "Heather",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
