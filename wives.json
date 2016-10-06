@@ -391,6 +391,13 @@
       "x": 10,
       "y": 10,
       "size": 10
+    },
+    {
+      "id": "Murad",
+      "label": "Muràd",
+      "x": 15,
+      "y": 15,
+      "size": 10
     }
   ],
   "edges": [
@@ -1382,7 +1389,29 @@
       "target": "Heather",
       "label": "Wives",
       "color": "#0022ff"
+    },
+	{
+      "id": "MikeReitmeierPeter",
+      "source": "MikeReitmeier",
+      "target": "Peter",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+	{
+      "id": "HeatherMuradMuradIsWife",
+      "source": "Heather",
+      "target": "Murad",
+	  "type": "arrow",
+      "label": "Wife",
+      "color": "#0022ff"
+    },
+	{
+      "id": "MuradHeatherHeatherIsHusband",
+      "source": "Murad",
+      "target": "Heather",
+	  "type": "curvedArrow",
+      "label": "Husband",
+      "color": "darkcyan"
     }
   ]
 }
-
