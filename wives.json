@@ -1412,6 +1412,13 @@
 	  "type": "curvedArrow",
       "label": "Husband",
       "color": "darkcyan"
+    },
+	{
+      "id": "AlexMurad",
+      "source": "Alex",
+      "target": "Murad",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
