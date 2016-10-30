@@ -1419,6 +1419,20 @@
       "target": "Murad",
       "label": "Wives",
       "color": "#0022ff"
+    },
+	{
+      "id": "HeatherPeter",
+      "source": "Heather",
+      "target": "Peter",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+	{
+      "id": "JoelPeter",
+      "source": "Joel",
+      "target": "Peter",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
