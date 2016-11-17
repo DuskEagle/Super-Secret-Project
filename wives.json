@@ -398,6 +398,13 @@
       "x": 15,
       "y": 15,
       "size": 10
+    },
+	{
+      "id": "RyanLe",
+      "label": "Ryan",
+      "x": 14,
+      "y": 14,
+      "size": 10
     }
   ],
   "edges": [
@@ -1433,6 +1440,28 @@
       "target": "Peter",
       "label": "Wives",
       "color": "#0022ff"
+    },
+	{
+      "id": "MikePeter",
+      "source": "MikeReitmeier",
+      "target": "Peter",
+	  "type": "curve",
+      "label": "Drinking Buddies",
+      "color": "#d0d00d"
+    },
+	{
+      "id": "MikeRyan",
+      "source": "MikeReitmeier",
+      "target": "RyanLe",
+      "label": "Zombrides",
+      "color": "#e4d69b"
+    },
+	{
+      "id": "RyanShannon",
+      "source": "RyanLe",
+      "target": "Shannon",
+      "label": "OZ Spouses",
+      "color": "#3563eb"
     }
   ]
 }
