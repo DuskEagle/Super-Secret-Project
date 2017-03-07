@@ -78,8 +78,8 @@
       "size": 10
     },
     {
-      "id": "Daniel",
-      "label": "Daniel",
+      "id": "DanielOxman",
+      "label": "Daniel O",
       "x": 11,
       "y": 11,
       "size": 10
@@ -380,7 +380,7 @@
     },
     {
       "id": "DevinOwens",
-      "label": "Devin Owens",
+      "label": "Devin O",
       "x": 20,
       "y": 20,
       "size": 10
@@ -404,6 +404,20 @@
       "label": "Ryan",
       "x": 14,
       "y": 14,
+      "size": 10
+    },
+	{
+      "id": "DanielResnick",
+      "label": "Daniel R",
+      "x": 0,
+      "y": 0,
+      "size": 10
+    },
+	{
+      "id": "Stephanie",
+      "label": "Stephanie",
+      "x": 0,
+      "y": 0,
       "size": 10
     }
   ],
@@ -977,13 +991,6 @@
       "color": "aquamarine"
     },
     {
-      "id": "BrendanKeana",
-      "source": "Brendan",
-      "target": "Keana",
-      "label": "Real Life",
-      "color": "grey"
-    },
-    {
       "id": "WereJoel",
       "source": "Were",
       "target": "Joel",
@@ -1013,37 +1020,37 @@
       "color": "darkseagreen"
     },
     {
-      "id": "NadiejdaDaniel",
+      "id": "NadiejdaDanielOxman",
       "source": "Nadiejda",
-      "target": "Daniel",
+      "target": "DanielOxman",
       "label": "Civil union",
       "color": "darkseagreen"
     },
     {
-      "id": "ShannonDaniel",
+      "id": "ShannonDanielOxman",
       "source": "Shannon",
-      "target": "Daniel",
+      "target": "DanielOxman",
       "label": "Common law",
       "color": "pink"
     },
     {
-      "id": "HeatherDanielCL",
+      "id": "HeatherDanielOxmanCL",
       "source": "Heather",
-      "target": "Daniel",
+      "target": "DanielOxman",
       "label": "Common law",
       "color": "pink"
     },
     {
-      "id": "JoelDaniel",
+      "id": "JoelDanielOxman",
       "source": "Joel",
-      "target": "Daniel",
+      "target": "DanielOxman",
       "label": "Common law",
       "color": "pink"
     },
     {
-      "id": "HeatherDanielFWB",
+      "id": "HeatherDanielOxmanFWB",
       "source": "Heather",
-      "target": "Daniel",
+      "target": "DanielOxman",
       "label": "Friends with benefits",
       "color": "orange",
       "type": "curve"
@@ -1462,6 +1469,64 @@
       "target": "Shannon",
       "label": "OZ Spouses",
       "color": "#3563eb"
+    },
+	{
+      "id": "EzraMurad",
+      "source": "Ezra",
+      "target": "Murad",
+      "label": "Sisters",
+      "color": "#ed2591"
+    },
+	{
+      "id": "DaleIsMuradsGranddaughter",
+      "source": "Murad",
+      "target": "Dale",
+      "label": "Granddaughter",
+      "color": "#f86ab7",
+	  "type": "arrow"
+    },
+	{
+      "id": "EricIsMuradsGrandmother",
+      "source": "Eric",
+      "target": "Murad",
+      "label": "Grandmother",
+      "color": "#571d3c",
+	  "type": "arrow"
+    },
+	{
+      "id": "FakeLineNotDisplayedToAnchorDanielResnickToTheGraph",
+      "source": "DanielResnick",
+      "target": "Murad",
+      "label": "",
+      "color": "#ffffff"
+    },
+	{
+      "id": "HeatherKeana",
+      "source": "Heather",
+      "target": "Keana",
+      "label": "Lovers",
+      "color": "#f4b251"
+    },
+	{
+      "id": "StephanieShannon",
+      "source": "Stephanie",
+      "target": "Shannon",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+	{
+      "id": "AlexStephanie",
+      "source": "Alex",
+      "target": "Stephanie",
+      "label": "Wives",
+      "color": "#0022ff"
+    },
+	{
+      "id": "AmandaStephanie",
+      "source": "Amanda",
+      "target": "Stephanie",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
