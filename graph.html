@@ -41,12 +41,12 @@
 <script src="../src/renderers/canvas/sigma.canvas.edgehovers.curvedArrow.js"></script>
 
 <div id="container"></div>
-<input id="label-checkbox" type="checkbox" onclick="toggleLabels()">
+<input id="label-checkbox" type="checkbox" checked onclick="toggleLabels()">
 <label id="label-checkbox-text" for="label-checkbox">Show labels</label>
 
 <script>
     
-    var show_labels = true;
+    var show_labels = false;
     toggleLabels = function() {
         show_labels = !show_labels;
         var edges = s.graph.edges();
