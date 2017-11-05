@@ -1539,7 +1539,7 @@
       "id": "HeatherKevin",
       "source": "Heather",
       "target": "Kevin",
-      "label": "Last-Name-Off",
+      "label": "Stonevesters",
       "color": "#dfbe90"
     },
     {
@@ -1548,6 +1548,22 @@
       "target": "Shannon",
       "label": "Husbands",
       "color": "darkcyan"
+    },
+    {
+      "id": "CristianHeatherHeatherIsHusband",
+      "source": "Cristian",
+      "target": "Heather",
+      "label": "Husband",
+      "type": "curvedArrow",
+      "color": "darkcyan"
+    },
+    {
+      "id": "CristianHeatherCristianIsWaifuBoye",
+      "source": "Heather",
+      "target": "Cristian",
+      "label": "Waifu Boye",
+      "type": "arrow",
+      "color": "f9bfdb"
     }
   ]
 }
