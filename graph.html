@@ -79,7 +79,7 @@
     };
     
     sigma.renderers.def = sigma.renderers.canvas;
-    sigma.parsers.json('wives.json', s, function(sig) {
+    sigma.parsers.json('https://github.com/DuskEagle/Super-Secret-Project/blob/master/wives.json', s, function(sig) {
         var dragListener = new sigma.plugins.dragNodes(sig, sig.renderers[0]);
         
         var edges = sig.graph.edges();
