@@ -1564,6 +1564,13 @@
       "label": "Waifu Boye",
       "type": "arrow",
       "color": "f9bfdb"
+    },
+    {
+      "id": "JoelMurad",
+      "source": "Joel",
+      "target": "Murad",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
