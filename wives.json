@@ -426,6 +426,20 @@
       "x": 0,
       "y": 0,
       "size": 10
+    },
+    {
+      "id": "Danielle",
+      "label": "Danielle",
+      "x": -10,
+      "y": 0,
+      "size": 10
+    },
+    {
+      "id": "Brandon",
+      "label": "Brandon",
+      "x": 0,
+      "y": 0,
+      "size": 10
     }
   ],
   "edges": [
@@ -582,21 +596,6 @@
       "target": "Gabi",
       "label": "Wives",
       "color": "#0022ff"
-    },
-    {
-      "id": "ShannonSophie1",
-      "source": "Shannon",
-      "target": "Sophie",
-      "label": "Wife",
-      "color": "#0022ff"
-    },
-    {
-      "id": "SophieShannon2",
-      "source": "Sophie",
-      "target": "Shannon",
-      "label": "Non-Binary Spouse",
-      "color": "darkorange",
-      "type": "curvedArrow"
     },
     {
       "id": "ShannonDestinee",
@@ -868,42 +867,42 @@
       "id": "ShannonRachel",
       "source": "Shannon",
       "target": "Rachel",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
       "id": "ShannonKerrin",
       "source": "Shannon",
       "target": "Kerrin",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
       "id": "ShannonJen",
       "source": "Shannon",
       "target": "Jen",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
       "id": "ShannonJulia",
       "source": "Shannon",
       "target": "Julia",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
       "id": "ChristinaJulia",
       "source": "Christina",
       "target": "Julia",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
       "id": "ChristinaKerrin",
       "source": "Christina",
       "target": "Kerrin",
-      "label": "Mistress",
+      "label": "Mistresses",
       "color": "red"
     },
     {
@@ -1571,6 +1570,27 @@
       "target": "Murad",
       "label": "Wives",
       "color": "#0022ff"
+    },
+    {
+      "id": "DanielleHeather",
+      "source": "Danielle",
+      "target": "Heather",
+      "label": "Partners in Crime",
+      "color": "#727272"
+    },
+    {
+      "id": "DanielleShannon",
+      "source": "Danielle",
+      "target": "Shannon",
+      "label": "Mistresseses",
+      "color": "red"
+    },
+    {
+      "id": "DanielleBrandon",
+      "source": "Danielle",
+      "target": "Brandon",
+      "label": "Married",
+      "color": "brown"
     }
   ]
 }
