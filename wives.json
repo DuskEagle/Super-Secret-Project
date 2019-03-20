@@ -440,6 +440,13 @@
       "x": 0,
       "y": 0,
       "size": 10
+    },
+    {
+      "id": "Jenna",
+      "label": "Jenna",
+      "x": 46,
+      "y": 47,
+      "size": 10
     }
   ],
   "edges": [
@@ -1591,6 +1598,13 @@
       "target": "Brandon",
       "label": "Married",
       "color": "brown"
+    },
+    {
+      "id": "ShannonJenna",
+      "source": "Shannon",
+      "target": "Jenna",
+      "label": "Wives",
+      "color": "#0022ff"
     }
   ]
 }
