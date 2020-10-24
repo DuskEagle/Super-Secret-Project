@@ -155,8 +155,8 @@
       "size": 10
     },
     {
-      "id": "Jordan",
-      "label": "Jordan",
+      "id": "Diana",
+      "label": "Diana",
       "x": 22,
       "y": 23,
       "size": 10
@@ -689,15 +689,15 @@
       "color": "#0022ff"
     },
     {
-      "id": "QuintonJordan",
+      "id": "QuintonDiana",
       "source": "Quinton",
-      "target": "Jordan",
+      "target": "Diana",
       "label": "Wives",
       "color": "#0022ff"
     },
     {
-      "id": "JordanAlex",
-      "source": "Jordan",
+      "id": "DianaAlex",
+      "source": "Diana",
       "target": "Alex",
       "label": "Wives",
       "color": "#0022ff"
@@ -829,15 +829,15 @@
       "color": "#0022ff"
     },
     {
-      "id": "JordanJoel",
-      "source": "Jordan",
+      "id": "DianaJoel",
+      "source": "Diana",
       "target": "Joel",
       "label": "Wives",
       "color": "#0022ff"
     },
     {
-      "id": "JordanShannon",
-      "source": "Jordan",
+      "id": "DianaShannon",
+      "source": "Diana",
       "target": "Shannon",
       "label": "Sister Wives",
       "color": "navyblue"
@@ -1083,9 +1083,9 @@
       "color": "brown"
     },
     {
-      "id": "AmandaJordan",
+      "id": "AmandaDiana",
       "source": "Amanda",
-      "target": "Jordan",
+      "target": "Diana",
       "label": "Married",
       "color": "brown"
     },
@@ -1136,10 +1136,10 @@
       "color": "lilac"
     },
     {
-      "id": "JordanHeather",
-      "source": "Jordan",
+      "id": "DianaHeather",
+      "source": "Diana",
       "target": "Heather",
-      "label": "Heather: Queen, Jordan: PrinceConsort",
+      "label": "Heather: Queen, Diana: PrinceConsort",
       "color": "violet"
     },
     {
@@ -1157,17 +1157,17 @@
       "color": "#0022ff"
     },
     {
-      "id": "EricJordan",
+      "id": "EricDiana",
       "source": "Eric",
-      "target": "Jordan",
+      "target": "Diana",
       "label": "In Eric's Pocket",
       "color": "chocolate",
       "type": "arrow"
     },
     {
-      "id": "YoshiJordan",
+      "id": "YoshiDiana",
       "source": "Yoshi",
-      "target": "Jordan",
+      "target": "Diana",
       "label": "Wives",
       "color": "#0022ff"
     },
