@@ -447,6 +447,13 @@
       "x": 46,
       "y": 47,
       "size": 10
+    },
+    {
+      "id": "Jino",
+      "label": "Jino",
+      "x": 47,
+      "y": 48,
+      "size": 10
     }
   ],
   "edges": [
@@ -1605,6 +1612,13 @@
       "target": "Jenna",
       "label": "Wives",
       "color": "#0022ff"
+    },
+    {
+      "id": "JoelJino",
+      "source": "Joel",
+      "target": "Jino",
+      "label": "Side Fucks",
+      "color": "#8B2222"
     }
   ]
 }
